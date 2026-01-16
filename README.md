@@ -292,7 +292,7 @@ Daily Users<br/>
 
 **Stack**: PyTorch, DeepSpeed, TensorRT-LLM, vLLM, FastAPI, H100 GPUs, SentencePiece
 
-**Publication**: [Krutrim LLM: Multilingual Foundational Model](https://arxiv.org/search/?query=krutrim&searchtype=all)
+**Publication**: [Krutrim LLM: Multilingual Foundational Model](https://arxiv.org/abs/2502.09642)
 
 </details>
 
@@ -401,7 +401,7 @@ Uttarakhand Technical University, India
 <tr>
 <td width="100%">
 
-**[Krutrim LLM: Multilingual Foundational Model for Large-Scale Deployment](https://arxiv.org/search/?query=krutrim&searchtype=all)**  
+**[Krutrim LLM: Multilingual Foundational Model for Large-Scale Deployment](https://arxiv.org/abs/2502.09642)**  
 Large-scale multilingual LLM training and deployment strategies for Indic languages
 
 </td>
@@ -409,7 +409,7 @@ Large-scale multilingual LLM training and deployment strategies for Indic langua
 <tr>
 <td width="100%">
 
-**[Virtual Try-On Clothing Using Deep Learning](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=virtual%20try-on%20clothing)**  
+**[Virtual Try-On Clothing Using Deep Learning](https://ijnrd.org/viewpaperforall.php?paper=IJNRD2205052)**  
 Computer vision approach for virtual garment fitting using GANs
 
 </td>
@@ -417,7 +417,7 @@ Computer vision approach for virtual garment fitting using GANs
 <tr>
 <td width="100%">
 
-**[Human Body Measurement Estimation from 2D Images](https://scholar.google.com/scholar?q=human+body+measurement+estimation+2d+images)**  
+**[Human Body Measurement Estimation from 2D Images](https://www.researchgate.net/publication/359465937_Estimate_human_body_measurement_from_2D_image_using_computer_vision)**  
 CNN-based body measurement extraction from single images
 
 </td>
