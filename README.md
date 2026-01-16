@@ -7,7 +7,7 @@
 <p>
 London, United Kingdom<br/>
 <a href="mailto:ibrahimdaud03@gmail.com">ibrahimdaud03@gmail.com</a> • 
-<a href="https://linkedin.com/in/daud-ibrahim">LinkedIn</a> • 
+<a href="https://www.linkedin.com/in/dav-id-7b6160222/">LinkedIn</a> • 
 <a href="https://github.com/hackdavid">GitHub</a> • 
 +44 7721 708820
 </p>
@@ -250,7 +250,7 @@ Daily Users<br/>
 <td width="100%">
 
 ### SymphonyAI · Senior Machine Learning Engineer
-**Aug 2024 - Sep 2025** | Bangalore, India
+**Aug 2024 - present** | Remote, London- UK
 
 <details open>
 <summary><b>AI-Driven Retail Intelligence Platform</b></summary>
@@ -455,7 +455,7 @@ I'm actively seeking roles in **Applied AI**, **LLM Systems Engineering**, and *
 
 **Interested in**: Staff/Senior MLE roles • AI Research Engineer • LLM Infrastructure • Applied AI Scientist
 
-[📧 Email Me](mailto:ibrahimdaud03@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/daud-ibrahim) • [🐙 GitHub](https://github.com/hackdavid)
+[📧 Email Me](mailto:ibrahimdaud03@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/dav-id-7b6160222/) • [🐙 GitHub](https://github.com/hackdavid)
 
 </div>
 
