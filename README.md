@@ -81,52 +81,161 @@ Daily Users<br/>
 
 <table>
 <tr>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🤖 LLM & Generative AI
+
+</div>
+
+<b>Model Architectures</b>
+- GPT-4, BERT, LLaMA
+- Mistral, MPT, Qwen
+- Custom transformer variants
+
+<b>Advanced Training</b>
+- LoRA, QLoRA, PEFT
+- DPO, PPO, RLHF alignment
+- DeepSpeed, Megatron
+- Distributed GPU training
+
+<b>Inference Systems</b>
+- TensorRT-LLM, vLLM, TGI
+- KV caching, dynamic batching
+- Flash Attention, PagedAttention
+- INT8/FP16 quantization
+
+<b>Agentic AI</b>
+- Multi-agent orchestration
+- Model Context Protocol (MCP)
+- Tool use and function calling
+- Autonomous reasoning systems
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🔧 MLOps & Infrastructure
+
+</div>
+
+<b>Production Deployment</b>
+- FastAPI microservices
+- Docker containerization
+- Kubernetes orchestration
+- Auto-scaling strategies
+
+<b>Cloud Platforms</b>
+- AWS (SageMaker, EC2, S3)
+- Lambda serverless
+- CI/CD pipelines
+- Infrastructure as Code
+
+<b>Model Operations</b>
+- A/B testing frameworks
+- Performance monitoring
+- Model versioning
+- Automated retraining
+
+<b>High Availability</b>
+- Load balancing
+- Fault tolerance
+- Disaster recovery
+- 99.9% uptime SLAs
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 📊 Data & RAG Systems
+
+</div>
+
+<b>Vector Intelligence</b>
+- Pinecone, Weaviate, Chroma
+- FAISS similarity search
+- Embedding optimization
+- Hybrid search strategies
+
+<b>RAG Pipelines</b>
+- Retrieval-Augmented Generation
+- Context window management
+- Re-ranking strategies
+- Multi-modal retrieval
+
+<b>Data Engineering</b>
+- Apache Spark, Airflow
+- ETL at petabyte scale
+- Real-time streaming (Kafka)
+- Feature stores
+
+<b>Databases</b>
+- PostgreSQL, MongoDB
+- Time-series optimization
+- Query performance tuning
+- Sharding strategies
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
-### LLM & Generative AI
-```yaml
-Architecture:
-  - GPT, BERT, LLaMA, Mistral, MPT
-  - Multi-agent systems & orchestration
-  - Retrieval-Augmented Generation (RAG)
-  - Model Context Protocol (MCP)
-  
-Training & Fine-tuning:
-  - LoRA, QLoRA, PEFT techniques
-  - DPO, PPO, RLHF alignment
-  - Distributed training (DeepSpeed, Megatron)
-  - Custom tokenization strategies
-  
-Inference Optimization:
-  - TensorRT-LLM, vLLM, TGI
-  - KV caching & dynamic batching
-  - Quantization (INT8, FP16, GPTQ)
-  - Flash Attention & Paged Attention
-```
+<div align="center">
+
+### 💻 Programming & Tools
+
+</div>
+
+<b>Core Languages</b>
+- Python (PyTorch, TensorFlow)
+- CUDA kernel programming
+- SQL optimization
+- JavaScript/TypeScript
+
+<b>ML Frameworks</b>
+- Hugging Face ecosystem
+- LangChain, LlamaIndex
+- Scikit-learn, XGBoost
+- Custom neural architectures
+
+<b>Development Tools</b>
+- Git version control
+- REST API design
+- GraphQL
+- WebSockets
 
 </td>
 <td width="50%" valign="top">
 
-### MLOps & Infrastructure
-```yaml
-Deployment & Serving:
-  - FastAPI microservices
-  - Docker, Kubernetes orchestration
-  - AWS (SageMaker, EC2, S3, Lambda)
-  - CI/CD pipelines & monitoring
-  
-Data Engineering:
-  - Apache Spark, Apache Airflow
-  - Vector databases (Pinecone, Weaviate)
-  - ETL pipelines at scale
-  - PostgreSQL, MongoDB
-  
-Production Systems:
-  - High-availability design
-  - Load balancing & auto-scaling
-  - A/B testing frameworks
-  - Model performance monitoring
-```
+<div align="center">
+
+### 👁️ Computer Vision
+
+</div>
+
+<b>Vision Models</b>
+- CNNs, Vision Transformers
+- Object detection (YOLO, R-CNN)
+- Semantic segmentation
+- GANs for image generation
+
+<b>OCR & Document AI</b>
+- Tesseract, EasyOCR
+- Layout analysis
+- Form understanding
+- 94% extraction accuracy
+
+<b>Libraries</b>
+- OpenCV, PIL
+- Detectron2
+- MMDetection
+- Albumentations
 
 </td>
 </tr>
