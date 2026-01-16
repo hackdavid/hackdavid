@@ -1,40 +1,118 @@
-## Daud Ibrahim
+<h1 align="center">Daud Ibrahim</h1>
 
-Senior Machine Learning Engineer focused on building and operating 
-production-grade AI systems at scale.
+<p align="center">
+  <b>Senior Machine Learning Engineer | Applied AI | LLM Systems</b>
+</p>
 
-I work across the full lifecycle of ML systems — from large-scale data 
-pipelines and distributed training to low-latency inference services 
-and backend integration — with a strong emphasis on reliability, cost 
-efficiency, and real-world impact.
+<p align="center">
+  Building production-grade AI systems with real-world scale, cost constraints, and reliability requirements.
+</p>
 
-### Core Expertise
-• Large Language Models: training, fine-tuning, alignment, and evaluation  
-• Distributed systems: GPU training, high-throughput inference, scaling  
-• ML systems engineering: model serving, monitoring, CI/CD, MLOps  
-• Backend integration: FastAPI services, workflow automation, APIs  
+---
 
-### Selected Systems & Work
-• Designed and deployed AI-driven retail intelligence systems used across hundreds of stores, improving on-shelf availability and operational visibility  
-• Built LLM-powered analytics and assistant systems for automated business insights and decision support  
-• Trained and optimized large-scale multilingual language models using distributed GPU infrastructure  
-• Developed high-availability inference services supporting tens of thousands of requests per hour  
-• Implemented model evaluation, benchmarking, and regression-safe comparison pipelines  
-• Integrated ML models into production backend systems to automate high-volume business workflows  
+### 🚀 Profile Snapshot
 
-*(Some systems are internal and described here at an architectural level.)*
+<table>
+  <tr>
+    <td><b>Focus</b></td>
+    <td>Applied AI, LLM systems, ML infrastructure</td>
+  </tr>
+  <tr>
+    <td><b>Experience</b></td>
+    <td>End-to-end ownership from data and training to inference and APIs</td>
+  </tr>
+  <tr>
+    <td><b>Scale</b></td>
+    <td>High-throughput systems, distributed GPU training, low-latency serving</td>
+  </tr>
+  <tr>
+    <td><b>Mindset</b></td>
+    <td>Production realism, measurable impact, long-term maintainability</td>
+  </tr>
+</table>
 
-### Technical Stack (Representative)
-• ML/AI: PyTorch, TensorFlow, Hugging Face, LoRA, PEFT, RLHF, DPO  
-• LLM Systems: Distributed training, TensorRT-LLM, vLLM, DeepSpeed, MoE  
-• Backend & Infra: FastAPI, Docker, Kubernetes, AWS, CI/CD pipelines  
-• Data & MLOps: Spark, Airflow, ETL pipelines, monitoring, model evaluation  
+---
 
-### Engineering Principles
-• Production realism over research demos  
-• Measurable impact and operational ownership  
-• Clean abstractions, testability, and regression safety  
-• Systems that scale in both usage and complexity  
+### 🧠 What I Work On
 
-This profile showcases selected public work and system-level experience.
+I design, build, and operate **applied AI systems** that move beyond experimentation into real production use.
 
+My work spans:
+- Large language models and multimodal systems
+- Distributed training and inference optimization
+- ML platforms integrated with backend and product workflows
+- Evaluation, benchmarking, and regression-safe deployment
+
+I am especially interested in problems where **model quality, system reliability, and cost efficiency must coexist**.
+
+---
+
+### 🏗️ Selected Systems (Abstracted)
+
+<table>
+  <tr>
+    <td>📊</td>
+    <td>
+      <b>AI-driven retail and analytics platforms</b><br/>
+      Production systems improving operational visibility and decision-making across hundreds of stores
+    </td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td>
+      <b>LLM-powered assistants and analytics engines</b><br/>
+      Automated insight generation using multi-agent and retrieval-based workflows
+    </td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td>
+      <b>Large-scale language model training and inference</b><br/>
+      Distributed GPU training, multilingual modeling, and optimized serving pipelines
+    </td>
+  </tr>
+  <tr>
+    <td>📈</td>
+    <td>
+      <b>Model evaluation and benchmarking pipelines</b><br/>
+      Reliable comparison frameworks for quality, latency, and regression detection
+    </td>
+  </tr>
+</table>
+
+<p><i>Some systems are internal and described here at an architectural level.</i></p>
+
+---
+
+### 🧰 Technical Focus Areas
+
+**ML and LLMs**
+- PyTorch, TensorFlow, Hugging Face
+- Fine-tuning, PEFT, LoRA, RLHF, DPO
+- Multilingual and large-context models
+
+**Systems and Infrastructure**
+- Distributed GPU training and inference
+- TensorRT-LLM, vLLM, DeepSpeed
+- FastAPI-based model serving
+
+**Production and MLOps**
+- Docker, Kubernetes, cloud deployments
+- CI/CD, monitoring, reliability practices
+- Data pipelines, ETL, workflow orchestration
+
+---
+
+### 📐 Engineering Principles
+
+- Production impact over research demos  
+- Simple abstractions that survive scale  
+- Explicit evaluation and regression safety  
+- Systems designed for long-term ownership  
+
+---
+
+### 📌 Public Work
+
+This profile highlights selected public repositories and system-level experience.
+Pinned repositories reflect areas of active interest and production relevance.
