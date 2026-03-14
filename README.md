@@ -9,9 +9,9 @@ London, United Kingdom<br/>
 <a href="mailto:ibrahimdaud03@gmail.com">ibrahimdaud03@gmail.com</a> • 
 <a href="https://www.linkedin.com/in/dav-id-7b6160222/">LinkedIn</a> • 
 <a href="https://github.com/hackdavid">GitHub</a> • 
-<a href="https://medium.com/@ibrahimdaud03">Medium </a>
-<a href="https://dev.to/daud_ibrahim_9887">dev</a>
-<a href="https://www.reddit.com/user/hackdavid/">Reddit</a>
+<a href="https://medium.com/@ibrahimdaud03">Medium </a> • 
+<a href="https://dev.to/daud_ibrahim_9887">dev</a> • 
+<a href="https://www.reddit.com/user/hackdavid/">Reddit</a> • 
 +44 7721 708820
 </p>
 
