@@ -11,8 +11,7 @@ London, United Kingdom<br/>
 <a href="https://github.com/hackdavid">GitHub</a> • 
 <a href="https://medium.com/@ibrahimdaud03">Medium </a> • 
 <a href="https://dev.to/daud_ibrahim_9887">dev</a> • 
-<a href="https://www.reddit.com/user/hackdavid/">Reddit</a> • 
-+44 7721 708820
+<a href="https://www.reddit.com/user/hackdavid/">Reddit</a> 
 </p>
 
 </div>
@@ -452,11 +451,9 @@ CNN-based body measurement extraction from single images
 
 <div align="center">
 
-### 💬 Open to Opportunities
+### 💬 Open to collaborations on LLM systems, agentic AI, and open source tooling.
 
-I'm actively seeking roles in **Applied AI**, **LLM Systems Engineering**, and **ML Infrastructure** at FAANG, AI-first startups, and research-driven organizations.
-
-**Interested in**: Staff/Senior MLE roles • AI Research Engineer • LLM Infrastructure • Applied AI Scientist
+If you're working on something interesting, let's talk
 
 [📧 Email Me](mailto:ibrahimdaud03@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/dav-id-7b6160222/) • [🐙 GitHub](https://github.com/hackdavid)
 
@@ -465,5 +462,5 @@ I'm actively seeking roles in **Applied AI**, **LLM Systems Engineering**, and *
 ---
 
 <div align="center">
-<sub>Last updated: January 2026</sub>
+<sub>Last updated: march 2026</sub>
 </div>
